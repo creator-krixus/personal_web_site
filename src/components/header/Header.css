@@ -1,0 +1,41 @@
+.header{
+    background-image: url('../../images/paisaje-montana.png');
+}
+.header__nav{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.header__titulo{
+    margin-left: 2%;
+}
+
+.header__routes{
+    padding-top: 1%;
+    margin-right: 10%;
+}
+
+.header__routes-items{
+    
+    text-decoration: none;
+    margin-right: 20%;
+}
+.header__info{
+    padding: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header__image{
+    border-radius: 50%;
+    width: 20%;
+}
+
+.header__texto{
+    margin-top: 0;
+    color: #fff;
+}
