@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container__functions{
+    background-color: #2e243d;
+}
+.titulo-functions{
+    color: brown;
+    margin-left: 4%;
+}
+.titulo-functions-services{
+    color: #fff;
+    margin-left: 4%;  
+}
+.container__information{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-top: 2%;
+}
+.container__desc{
+    border: solid 1px brown;
+    padding-top: 1%;
+    margin-bottom: 2%;
+    padding-right: 1%;
+}
+.container__desc-titulo{
+    color: #fff;
+    margin-left: 1%;
+    padding-bottom: 2%;
+}
+.item{
+    color: #fff;
+    list-style: none;
+    padding-left: 3%;
+}

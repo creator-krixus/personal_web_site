@@ -1,26 +1,36 @@
 .header{
-    background-image: url('../../images/paisaje-montana.png');
+    background-image: url('../../images/dawn.png');
+    background-size: cover;
 }
 .header__nav{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
+    
 }
 
 .header__titulo{
     margin-left: 2%;
 }
-
+.header__titulo-enlace{
+    text-decoration: none;
+    color: brown;
+}
+b{
+    font-size: 35px;
+    color: #fff;
+}
 .header__routes{
     padding-top: 1%;
     margin-right: 10%;
 }
 
 .header__routes-items{
-    
+    font-size: 130%;
     text-decoration: none;
     margin-right: 20%;
+    color: #fff;
 }
 .header__info{
     padding: 3%;
@@ -37,5 +47,10 @@
 
 .header__texto{
     margin-top: 0;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+}
+.header__nombre{
     color: #fff;
 }

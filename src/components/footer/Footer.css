@@ -1,0 +1,30 @@
+.container__footer{
+    background-color: #190f27;
+    padding: 2%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.container__copyright{
+    margin-top: 1%;
+    padding: 1%;
+}
+.footer__text{
+    color: #fff;
+}
+.container__contactos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+}
+.footer__titulo{
+    color: brown;
+    padding: 1%;
+}
+.footer__items{
+    font-size: 200%;
+    color: #fff;
+    margin-top: 5%;
+}
