@@ -31,6 +31,9 @@
     margin-left: 1%;
     padding-bottom: 2%;
 }
+.container__desc ul{
+    padding: 1.5%;
+}
 .item{
     color: #fff;
     list-style: none;

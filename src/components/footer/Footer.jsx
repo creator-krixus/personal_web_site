@@ -12,7 +12,7 @@ export default function Footer() {
             
             <div className="container__contactos">
                 <h2 className="footer__titulo">Contactame</h2>
-                <a href="https://api.whatsapp.com/send?phone=+573113166588&text=¡Hola necesito tus servicios!"><FontAwesomeIcon icon={faWhatsapp} className="footer__items"/></a>
+                <a href="https://api.whatsapp.com/send?phone=+573113166588&text=¡Hello I need your services!"><FontAwesomeIcon icon={faWhatsapp} className="footer__items"/></a>
             </div>
         </div>
         

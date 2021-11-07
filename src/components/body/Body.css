@@ -5,7 +5,7 @@
     justify-content: space-evenly;
     align-items: center;
     background-color: #190f27 ;
-    padding-bottom: 3%;
+    padding-bottom: 0.5%;
 }
 
 .container__img{
@@ -47,4 +47,6 @@ img{
     border-radius: 6px;
     color: #fff;
     font-size: 15px;
+    margin-top: 5%;
+    margin-left: 30%;
 }

@@ -15,7 +15,7 @@ export default function functions() {
                     <ul>
                         <li className="item">Translate designs into a programming language.</li>
                         <li className="item">Develop the visual part of the web.</li>
-                        <li className="item">Design the structure of the web.</li>
+                        <li className="item">Desing the structure of the web in the backend.</li>
                         <li className="item">Facilitate user navigation.</li>
                         
                     </ul>
@@ -33,10 +33,9 @@ export default function functions() {
                     <h2 className="container__desc-titulo">Skills</h2>
                     <ul>
                         <li className="item">Program in Javascript, an object-oriented language.</li>
-                        <li className="item">Program in HTML, used to label,<br />
-                         organize and create the structure of the contents.</li>
-                        <li className="item">Program in CSS, used to create style cascades and<br />
-                         format content.</li>
+                        <li className="item">Program in HTML and CSS, used to layout.<br /></li>
+                        <li className="item">Program in Node js, used to create API´s<br />
+                         in the backend.</li>
                         <li className="item">Work with React and Vue frameworks.</li>
                     </ul>
 
