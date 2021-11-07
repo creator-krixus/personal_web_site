@@ -26,13 +26,14 @@ img{
 }
 .container__info-text{
     color: #fff;
-    padding-bottom: 2%;
+    padding-bottom: 4%;
     padding-top: 2%;
 }
 .container__info-data{
-    padding: 1%;
+    padding: 2.5%;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-around;
     margin-bottom: 2%;
     border: solid 1px brown;

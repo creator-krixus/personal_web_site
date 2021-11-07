@@ -24,15 +24,15 @@ export default function Body() {
                 <h1 className="container__info-titulo">About Me</h1>
                 <Linea />
                 <p className="container__info-text">My name is Wilson Rueda. I`m a frontend developer based in Medellin, Colombia<br />
-                I`m very passionate and dedicated to my work. Whith 2 year experience<br />
-                as a profesional frontend developer, I have acquired skills necesary<br />
+                I`m very passionate and dedicated to my work. Whit 2 year experience<br />
+                as a profesional FullStack developer, I have acquired skills necesary<br />
                 to build greats website.</p>
                 <div className="container__info-data">
                     <section className="one">
                         Name: Wilson Rueda<br/>
                         Phone: +57 311 316 65 88<br/>
                         Experience: 2 year<br/>
-                        Email: wilsonrueda2@gmail.com
+                        Email: wilsonrueda2@gmail.com<br/>
                     </section>
                     <section className="one">
                         Country: Colombia<br />

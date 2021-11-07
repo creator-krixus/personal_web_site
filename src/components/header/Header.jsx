@@ -20,7 +20,7 @@ export default function Header() {
             <div className="header__info">
                 <img src={foto} className="header__image" alt="Wilson"/>
                 <h1 className="header__nombre">Wilson Rueda</h1>
-                <p className="header__texto">Frontend Developer</p>
+                <p className="header__texto">FullStack Developer</p>
             </div>
         </div>
     )
